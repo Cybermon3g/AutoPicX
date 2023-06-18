@@ -9,31 +9,31 @@
     "autopicx userbot",
     "autopicx"
   ],
-  "repository": "https://github.com/git-itsjoel/AutoPicX",
+  "repository": "https://github.com/Cybermon3g/AutoPicX",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "15762061",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "364d3fa8f95aae815d62cf981ab1afe3",
       "required": true
     },
     "SESSION": {
       "description": "Generate this value from @CatStringSessionBot in telegram",
-      "value": "",
+      "value": "1BVtsOGYBu5nutjr3lkgoCCxsBn_0g6EuliScNGyIwwKpcTTqMj0rYMjMhls1dEHPNJeRjTuS8xf66mYhaXfsuwi_2BoAvp8q2MZWhAa86O0q9GYOv-FvvrkAN-xVoK1GO767CilUjRlM1TijozfBXJ2HdJXDOZZVK0mlMigAHE2MajnOAcl92i4zJRjkdrL333kASdvGR_WcEZUpUXhUSUfpk5HB0Qe1d_djXG4_-8B4TfkzjA2g-auTqwTosoZ05ypW9NM-1sXQqYsoS-zQ3fgPxGXemC_TD3o15MbIBM9Pwlviork_VbUbQXQ7JuWi9_dOnxcp_7ZGNPxemM9TLujxtUxSQPk=",
       "required": true
     },
     "CHANNEL_ID": {
       "description": "Place the ID of channel in which the pictures are saved to change your profile pic (Include -100 with ID)",
-      "value": "",
+      "value": "-1001227879771",
       "required": true
     },
     "TIME": {
       "description": "After What Time Next Pic To Be Changed Place Time in Seconds Eg- 60 it means 1 minute",
-      "value": "60",
+      "value": "30",
       "required": true
     }
   },
